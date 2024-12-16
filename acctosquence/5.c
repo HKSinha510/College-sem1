@@ -11,6 +11,6 @@ void main(){
     printf("Enter num2: ");
     scanf("%f", &b);
 
-    printf("Subtration: %f", a-b);
+    printf("Subtration: %.2f", a-b);
 
 }
