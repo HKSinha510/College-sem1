@@ -13,5 +13,5 @@ void main(){
         return;
     }
 
-    printf("Division: %f", a/b);
+    printf("Quotient: %.2f", a/b);
 }

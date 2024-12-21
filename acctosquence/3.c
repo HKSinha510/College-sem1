@@ -4,9 +4,9 @@
 
 void main(){
     printf("My CV: \n");
-    printf("\n\n\n");
-    printf("My name is Hardik");
-    printf("I can code in python & C");
-    printf("DOB: 20/01/2005");
+    printf("\n");
+    printf("My name is Hardik\n");
+    printf("I can code in python & C\n");
+    printf("DOB: 20/01/2005\n\n");
     printf("___ END OF CV ___");
 }

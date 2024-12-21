@@ -8,7 +8,7 @@ void main(){
     printf("Enter n: ");
     scanf("%d", &user);
 
-    int fibarr[10] = {};
+    int fibarr[100] = {};
 
     for (int i=0; i < user; i++){
         if (i == 0) {

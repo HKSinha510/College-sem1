@@ -11,5 +11,5 @@ void main(){
     printf("Enter num2: ");
     scanf("%f", &b);
 
-    printf("Multiplication: %.2f", a*b);
+    printf("Product: %.2f", a*b);
 }
