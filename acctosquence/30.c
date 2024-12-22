@@ -7,7 +7,7 @@ int main(){
 
     printf("Enter a number: ");
     scanf("%f", &user);
-    a = user;
+    
     fac = 1;
 
     while (user > 1){

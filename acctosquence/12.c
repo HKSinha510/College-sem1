@@ -1,3 +1,5 @@
+// find the smallest of 3 number
+
 #include <stdio.h>
 
 void main() {
